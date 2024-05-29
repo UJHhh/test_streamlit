@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image, ImageOps
 import pandas as pd
 import numpy as np
-from cv2 import cv2 # from cv2 사용
+import cv2
 import os
 
 import tensorflow as tf
